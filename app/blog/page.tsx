@@ -10,10 +10,10 @@ export interface Blogpost {
   Image: string,
   publishedAt: number
 }
-const async BlogPage = () => {
+const  BlogPage = () => {
  const postQuery = `*[_type == "post"]{
-  title,"slug":slug.current,"Image":mainImage.asset->url,publishedAt,body}'
-  
+  title,"slug":slug.current,"Image":mainImage.asset->url,publishedAt,body}'`
+
 
   return (
     <div>BlogPage</div>
