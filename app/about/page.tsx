@@ -17,7 +17,7 @@ const About = () => {
         About This Blog
         </h1>
         <p className="mb-8 leading-relaxed">
-        This blog is your go-to resource for staying updated on the latest trends, tips, and insights in web development and design. Authored by industry experts, our posts are crafted to inspire and educate developers, designers, and tech enthusiasts alike. Whether you're a seasoned professional or just starting your journey, you'll find valuable content tailored to your needs.
+        This blog is your go-to resource for staying updated on the latest trends, tips, and insights in web development and design. Authored by industry experts, our posts are crafted to inspire and educate developers, designers, and tech enthusiasts alike. Whether you&apos;re a seasoned professional or just starting your journey, you&apos;ll find valuable content tailored to your needs.
         </p>
         <div className="flex justify-center">
           <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
